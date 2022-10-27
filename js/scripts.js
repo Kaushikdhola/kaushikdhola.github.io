@@ -8,7 +8,7 @@ return t=a?function(t){return t&&a(r(t))}:function(t){return t&&r(t)}}function e
 
 $(function(){
 	$(".typed").typed({
-		strings: ["Data Scientist", "Programmer", "Software Engineer"],
+		strings: ["a Data Scientist", "an AI Researcher", "a Software Engineer"],
 		// Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
 		stringsElement: null,
 		// typing speed

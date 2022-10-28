@@ -682,6 +682,7 @@ a {
 	
     align-items: center;
 }
+
 .popup-content {
     background-color: #333333;
     margin: auto;
@@ -733,6 +734,8 @@ a {
   visibility: visible;
   opacity: 1;
   transform: scale(1);
+  
+  pointer-events: all;
   
 }
 
